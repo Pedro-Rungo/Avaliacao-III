@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Gestão de Oficina Mecânica (SGOM)",
+  "description": "Sistema web empresarial para gestão de oficina mecânica: clientes, veículos, ordens de serviço, mecânicos, stock e faturas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
